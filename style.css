@@ -10,6 +10,7 @@ nav {
     align-items: center;
     padding: 20px 8%;
     background-color: #FFD166;
+    width: 100%;
 }
 .logo {
     color: #5A3E2B;
@@ -88,6 +89,10 @@ p {
     cursor: pointer;
     font-size: 20px;
     transition: .3s;
+}
+.hero-btn {
+    display: flex;
+    gap: 20px;
 }
 .btn1 {
     color: #5A3E2B;
